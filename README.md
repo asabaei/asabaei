@@ -5,4 +5,4 @@ I like building projects that combine algorithms, data, and machine learning, an
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/arianna-sabaei/)) · asabaei26@gmail.com
+[LinkedIn](https://www.linkedin.com/in/arianna-sabaei/) · asabaei26@gmail.com
